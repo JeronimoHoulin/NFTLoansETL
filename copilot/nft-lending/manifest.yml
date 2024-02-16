@@ -1,0 +1,10 @@
+name: nft-lending
+type: Scheduled Job
+on:
+  schedule: "@every 20m"
+
+image:
+  build: Dockerfile
+
+cpu: 512
+memory: 1024

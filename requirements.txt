@@ -1,0 +1,7 @@
+pandas==1.5.1
+web3==5.31.2
+python-dotenv==0.21.0
+awswrangler
+redshift_connector
+dynaconf
+zashcore
